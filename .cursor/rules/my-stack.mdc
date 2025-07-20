@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Technical stack
+
+- Python for the back-end
+- React/Typescript for the frontend
+- SQL databases strongly preferred over other alternatives
+- Elasticsearch for search, using elastic.co hosting
+- Elastic.co will have dev and prod indexes
+- Python tests 
+- Docker compose for running a local dev environment
